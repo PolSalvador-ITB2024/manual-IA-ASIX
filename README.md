@@ -8,7 +8,7 @@ Aquest manual està enfocat a explicar l'ús d'intel·ligència artificial (IA) 
 - **Impacte ambiental.**
 - **Propostes per minimitzar els impactes ambientals.**
 
----
+----
 
 ## 2. Aplicacions de la IA en Anàlisi de Dades
 L'IA ofereix múltiples aplicacions per a l'anàlisi de dades, entre les quals destaquen:
